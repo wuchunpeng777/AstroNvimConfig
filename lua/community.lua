@@ -10,4 +10,5 @@ return {
   {import = 'astrocommunity.colorscheme.tokyonight-nvim'},
   {import = 'astrocommunity.editing-support.conform-nvim'},
   {import = 'astrocommunity.editing-support.auto-save-nvim'},
+  {import = 'astrocommunity.editing-support.undotree'},
 }
