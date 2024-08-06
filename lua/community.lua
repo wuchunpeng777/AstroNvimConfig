@@ -9,4 +9,5 @@ return {
   -- import/override with your plugins folder
   {import = 'astrocommunity.colorscheme.tokyonight-nvim'},
   {import = 'astrocommunity.editing-support.conform-nvim'},
+  {import = 'astrocommunity.editing-support.auto-save-nvim'},
 }
