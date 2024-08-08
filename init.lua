@@ -19,5 +19,3 @@ require "lazy_setup"
 require "polish"
 
 vim.cmd([[hi @lsp.type.comment guifg=#32CD32]])
-vim.api.nvim_set_hl(0, 'LineNrAbove', { fg = '#51B3EC', bold = true })
-vim.api.nvim_set_hl(0, 'LineNrBelow', { fg = '#FB508F', bold = true })

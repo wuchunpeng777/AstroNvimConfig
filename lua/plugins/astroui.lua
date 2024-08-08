@@ -14,6 +14,8 @@ return {
         highlights = {
             init = { -- this table overrides highlights in all themes
                 -- Normal = { bg = "#000000" },
+                LineNrAbove = {fg='#51B3EC',bold=true},
+                LineNrBelow = {fg='#FB508F',bold=true},
             },
             astrodark = { -- a table of overrides/changes when applying the astrotheme theme
                 -- Normal = { bg = "#000000" },
