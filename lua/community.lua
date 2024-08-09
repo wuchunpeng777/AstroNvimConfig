@@ -7,9 +7,10 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   -- import/override with your plugins folder
-  {import = 'astrocommunity.colorscheme.tokyonight-nvim'},
-  {import = 'astrocommunity.editing-support.conform-nvim'},
+  { import = 'astrocommunity.colorscheme.tokyonight-nvim' },
+  { import = 'astrocommunity.editing-support.conform-nvim' },
   -- {import = 'astrocommunity.editing-support.auto-save-nvim'},
-  {import = 'astrocommunity.editing-support.undotree'},
-  {import = 'astrocommunity.utility.noice-nvim'},
+  { import = 'astrocommunity.editing-support.undotree' },
+  { import = 'astrocommunity.utility.noice-nvim' },
+  { import = "astrocommunity.recipes.disable-tabline" },
 }
