@@ -11,6 +11,6 @@ return {
   { import = 'astrocommunity.editing-support.conform-nvim' },
   -- {import = 'astrocommunity.editing-support.auto-save-nvim'},
   { import = 'astrocommunity.editing-support.undotree' },
-  { import = 'astrocommunity.utility.noice-nvim' },
+  --{ import = 'astrocommunity.utility.noice-nvim' },
   -- { import = "astrocommunity.recipes.disable-tabline" },
 }

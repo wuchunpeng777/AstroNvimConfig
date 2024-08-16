@@ -19,3 +19,4 @@ require "lazy_setup"
 require "polish"
 
 vim.cmd([[hi @lsp.type.comment guifg=#32CD32]])
+vim.opt.guifont = 'JetBrainsMono Nerd Font:h12'
