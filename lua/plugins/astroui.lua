@@ -16,6 +16,8 @@ return {
                 -- Normal = { bg = "#000000" },
                 LineNrAbove = {fg='#51B3EC',bold=true},
                 LineNrBelow = {fg='#FB508F',bold=true},
+                LspInlayHint = {fg = '#8B8B00'},
+                DiagnosticUnnecessary = {fg = '#6A5AfD'},
             },
             astrodark = { -- a table of overrides/changes when applying the astrotheme theme
                 -- Normal = { bg = "#000000" },
